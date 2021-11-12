@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+   <head>
+      <meta charset="utf-8" />
+
+      <title>Tournois</title>
+
+      <link href="/dist/jquery.bracket.min.css" rel="stylesheet" />
+   </head>
+   <body>
+
+      
+    <div class="tournament"></div>
+    <script src="dist/jquery.min.js"></script>
+    <script src="dist/jquery.bracket.min.js"></script>
+
+
+    <script>
+       var minData = {
+            teams : [
+               ["Fréd","Alex"],
+               ["Edou","Antho"],
+               ["Houss","Romain"],
+               ["Denis","David"]
+            ],
+            results : [
+               [[3,1], [4,6], [11,3], [7,5]],
+               [[5,3], [1,2]],
+               [[3,5], [7,8]]
+            ]
+       }
+
+       $('.tournament').bracket({
+          init: minData
+       });      
+    </script>
+
+   </body>
+   </html>
