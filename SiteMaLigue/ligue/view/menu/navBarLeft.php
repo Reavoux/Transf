@@ -12,7 +12,11 @@
                             </a>
                             <a class="nav-link" href="?action=listeUsers">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
-                                listeUsers
+                                Liste des utilisateurs
+                            </a>
+                            <a class="nav-link" href="?action=listeLigue">
+                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                                Liste des ligues
                             </a>
                             <a class="nav-link" href="?action=amis">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
@@ -30,3 +34,4 @@
                         </div>
                     </div>
                 </nav>
+                

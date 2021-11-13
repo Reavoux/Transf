@@ -30,9 +30,7 @@
                             <li class="breadcrumb-item active" id="ejs_heure">Heure Dynamique</li>
                         </ol>
                         <div class="row">
-                            <div class="row">
-                                <?php include "menu/navAccueil.php"?>
-                            </div>
+                            <?php include "menu/navAccueil.php"?>
                         </div>                        
                         <div class="card mb-4">
                             <div class="card-header">

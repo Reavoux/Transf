@@ -27,7 +27,9 @@
                         <div class="row">
                         <?php include "menu/navAccueil.php"?>
                         </div>
-                        <?php include "tableau/tableauMesLigues.php"; ?>  
+                       
+                        <?php include "tableau/tableauMesLigues.php"; ?>
+          
                     </div>
                 </main>
                 <footer class="py-4 bg-light mt-auto">

@@ -28,10 +28,8 @@
                             <li class="breadcrumb-item active" id="ejs_heure">Heure Dynamique</li>
                         </ol>
                         <div id="headshot" class="mx-auto d-block">
-                            <img src="docs/imagesProfils/renard.jpg" class="rounded-pill" alt="Alan Smith" />
+                            <img src="../assets/templetBackend/images/profil/renard.jpg" class="rounded-pill" alt="Alan Smith" />
                         </div>
-
-                        
                         <div class="row">
                             <div class="col-xl-3">
                                 <div class="card mb-4">
@@ -100,6 +98,7 @@
                             </div>                          
                         </div>
                     </div>
+
                 </main>
                 <footer class="py-4 bg-light mt-auto">
 					<?php include "footer/footer.php"; ?>

@@ -8,18 +8,202 @@
       </div>
       <div class="modal-body">
         <form>
-          <div class="row mb-3">
-            <div class="col-md-6">
-              <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-success">IMG Reav / Admin</a>
-                <hr class="dropdown-divider"/>
-                <a href="#" class="list-group-item list-group-item-info">IMG Darelik / Joueur</a>
-                <a href="#" class="list-group-item list-group-item-info">IMG Elmios / Joueur</a>
-                <hr class="dropdown-divider"/>
-                <a href="#" class="list-group-item list-group-item-warning">IMG Niky 12 / Spectateur</a>
-              </div>
-            </div>
-          </div>         
+          <table class="table table-sm style-class">
+            <thead>
+              <tr>
+                <th class="center">PL.</th>
+                <th class="">JOUEURS</th>
+                <th class="center">1</th>
+                <th class="center">2</th>
+                <th class="center">3</th>
+                <th class="center">4</th>
+                <th class="center">5</th>
+                <th class="center">6</th>
+                <th class="center">7</th>
+                <th class="center">8</th>
+                <th class="center">9</th>
+                <th class="center">10</th>
+                <th class="center">PTS</th>
+                <th class="center">Bp</th>
+                <th class="center">Bc</th>
+                <th class="center">Dif</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="center">1</td>
+                <td class="">Vachier-Lagrave, Maxime</td>
+                <td class="center">X</td>
+                <td class="center">½</td>
+                <td class="center">0</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">1</td>
+                <td class="center">½</td>
+                <td class="center">1</td>
+                <td class="center">1</td>
+                <td class="center">1</td>
+                <td class="bold center">6</td>
+                <td class="center">14</td>
+                <td class="center">4</td>
+                <td class="center">23.75</td>
+              </tr>
+              <tr>
+                <td class="center">2</td>
+                <td class="">Caruana, Fabiano</td>
+                <td class="center">½</td>
+                <td class="center">X</td><td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">0</td>
+                <td class="center">1</td>
+                <td class="center">1</td>
+                <td class="center">½</td>
+                <td class="center">1</td>
+                <td class="bold center">5</td>
+                <td class="center">1</td>
+                <td class="center">3</td>
+                <td class="center">23.00</td>
+              </tr>
+              <tr>
+                <td class="center">3</td>
+                <td class="">Dominguez Perez, Leinier</td>
+                <td class="center">1</td>
+                <td class="center">½</td>
+                <td class="center">X</td><td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">1</td>
+                <td class="bold center">5</td>
+                <td class="center">8</td>
+                <td class="center">2</td>
+                <td class="center">24.00</td>
+              </tr>
+              <tr>
+                <td class="center">4</td>
+                <td class="">So, Wesley</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">X</td><td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">1</td>
+                <td class="center">1</td>
+                <td class="bold center">5</td>
+                <td class="center">6</td>
+                <td class="center">2</td>
+                <td class="center">22.75</td>
+              </tr>
+              <tr>
+                <td class="center">5</td>
+                <td class="">Rapport, Richard</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">X</td><td class="center">½</td>
+                <td class="center">0</td>
+                <td class="center">½</td>
+                <td class="center">1</td>
+                <td class="center">½</td>
+                <td class="bold center">4</td>
+                <td class="center">-3</td>
+                <td class="center">1</td>
+                <td class="center">20.00</td>
+              </tr>
+              <tr>
+                <td class="center">6</td>
+                <td class="">Xiong, Jeffery</td>
+                <td class="center">0</td>
+                <td class="center">1</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">X</td><td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">0</td>
+                <td class="bold center">4</td>
+                <td class="center">-0</td>
+                <td class="center">1</td>
+                <td class="center">19.00</td>
+              </tr>
+              <tr>
+                <td class="center">7</td>
+                <td class="">Mamedyarov, Shakhriyar</td>
+                <td class="center">½</td>
+                <td class="center">0</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">1</td>
+                <td class="center">½</td>
+                <td class="center">X</td><td class="center">0</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="bold center">4</td>
+                <td class="center">-11</td>
+                <td class="center">1</td>
+                <td class="center">18.00</td>
+              </tr>
+              <tr>
+                <td class="center">8</td>
+                <td class="">Shankland, Sam</td>
+                <td class="center">0</td>
+                <td class="center">0</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">1</td>
+                <td class="center">X</td><td class="center">½</td>
+                <td class="center">½</td>
+                <td class="bold center">4</td>
+                <td class="center">-0</td>
+                <td class="center">1</td>
+                <td class="center">16.75</td>
+              </tr>
+              <tr>
+                <td class="center">9</td>
+                <td class="">Svidler, Peter</td>
+                <td class="center">0</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">0</td>
+                <td class="center">0</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">X</td><td class="center">1</td>
+                <td class="bold center">3</td>
+                <td class="center">-6</td>
+                <td class="center">1</td>
+                <td class="center">14.00</td>
+              </tr>
+              <tr>
+                <td class="center">10</td>
+                <td class="">Swiercz, Dariusz</td>
+                <td class="center">0</td>
+                <td class="center">0</td>
+                <td class="center">0</td>
+                <td class="center">0</td>
+                <td class="center">½</td>
+                <td class="center">1</td>
+                <td class="center">½</td>
+                <td class="center">½</td>
+                <td class="center">0</td>
+                <td class="center">X</td>
+                <td class="bold center">2</td>
+                <td class="center">-8</td>
+                <td class="center">1</td>
+                <td class="center">10.25</td>
+              </tr>
+            </tbody>
+          </table>        
         </form>
       </div>
       <div class="modal-footer">

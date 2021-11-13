@@ -1,8 +1,18 @@
 <style>
+
+/*
+*,
+*::before,
+*::after {
+  box-sizing: content-box;
+}
+*/
+
 #container { 
     width: 800px; 
     height: 600px; 
-    float: left; 
+    float: left;
+    display: inline-block 
 }
 
 section { 
@@ -102,7 +112,7 @@ section > div:nth-child(2n) {
 }
 </style>
     
-  
+
 <article id="container">
     
 <section>
